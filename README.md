@@ -1,4 +1,4 @@
-# Protocolos
+# Protocolos de comunicación en Sistemas Embebidos
 
 Ejercicio1 : Memoria SD (Probado!)
 
