@@ -1,0 +1,231 @@
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000784 000000ac t uartProcessIRQ
+Protocolos/Ejercicio2/out/Ejercicio2.elf:10000098 00000004 b rxIsrCallbackUART0
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1000009c 00000004 b txIsrCallbackUART0
+Protocolos/Ejercicio2/out/Ejercicio2.elf:100000a0 00000004 b txIsrCallbackUART2
+Protocolos/Ejercicio2/out/Ejercicio2.elf:100000a4 00000004 b txIsrCallbackUART3
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a002518 00000048 t lpcUarts
+Protocolos/Ejercicio2/out/Ejercicio2.elf:100000a8 00000004 b rxIsrCallbackUART2
+Protocolos/Ejercicio2/out/Ejercicio2.elf:100000ac 00000004 b rxIsrCallbackUART3
+Protocolos/Ejercicio2/out/Ejercicio2.elf:10000004 00000004 d ClockSpeed
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000390 00000010 t clearInterrupt
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0003a0 00000060 t serveInterrupt
+Protocolos/Ejercicio2/out/Ejercicio2.elf:10000008 00000048 d ultrasonicSensors
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0023dc 00000003 t ultrasonicSensorsIrqMap
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000424 0000002c t gpioObtainPinInit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0009a4 00000002 t errorOcurred
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0009a8 00000002 t doNothing
+Protocolos/Ejercicio2/out/Ejercicio2.elf:10000050 00000040 d timer_dd
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a00257c 00000060 t pinmuxing
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0025dc 0000000c t InitClkStates
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000c6c 0000002c t Chip_UART_GetIndex
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000c98 00000048 t Chip_UART_ABIntHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0025e8 00000008 t UART_PClock
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0025f0 00000008 t UART_BClock
+Protocolos/Ejercicio2/out/Ejercicio2.elf:100000b0 00000001 b ABsyncSts
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0011cc 00000034 t Chip_USB_PllSetup
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0025f8 00000014 t usbPLLSetup
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001290 000000a8 t pll_calc_divs
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001338 00000104 t pll_get_frac
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a00143c 00000024 t Chip_Clock_TestMainPLLMultiplier
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001460 00000048 t Chip_Clock_FindBaseClock
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001888 00000022 t Chip_Clock_GetDivRate
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a00260c 0000006c t periph_to_base
+Protocolos/Ejercicio2/out/Ejercicio2.elf:100000b4 00000008 b audio_usb_pll_freq
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a002684 00000048 t InitClkStates
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a002560 0000000c t gpioLEDBits
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a080000 a __top_MFlashA512
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0026d4 r __exidx_end
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0026d4 r _etext
+Protocolos/Ejercicio2/out/Ejercicio2.elf:20008000 a __top_RamAHB32
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0026cc r __exidx_start
+Protocolos/Ejercicio2/out/Ejercicio2.elf:20010000 a __top_RamAHB_ETB16
+Protocolos/Ejercicio2/out/Ejercicio2.elf:10008000 a __top_RamLoc32
+Protocolos/Ejercicio2/out/Ejercicio2.elf:         U _printf_float
+Protocolos/Ejercicio2/out/Ejercicio2.elf:2000c000 a __top_RamAHB16
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1008a000 a __top_RamLoc40
+Protocolos/Ejercicio2/out/Ejercicio2.elf:100000d4 b _pvHeapStart
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1b080000 a __top_MFlashB512
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001558 0000001c T Chip_Clock_GetDividerSource
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001e34 0000002e T __gnu_uldivmod_helper
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000a28 00000040 T TIMER2_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000860 00000014 T uartRxRead
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a00019c 00000002 W DebugMon_Handler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W RIT_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W ADCHS_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001e68 0000029c T __divdi3
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000114 T __section_table_start
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W FLASH_EEPROM_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W I2C0_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000904 0000001c T uartReadByte
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001200 00000034 T Chip_USB0_Init
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000d70 00000010 T Chip_UART_CheckBusy
+Protocolos/Ejercicio2/out/Ejercicio2.elf:10000094 00000004 B callBackFuncParams
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000188 00000002 W HardFault_Handler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001004 0000000c T Chip_UART_GetABEOStatus
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000000 A __vectors_start__
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001118 00000030 T RingBuffer_Pop
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a00193c 00000018 T Chip_Clock_DisableBaseClock
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000754 00000030 T SysTick_Handler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000dec 00000044 T Chip_UART_SetBaud
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0016c8 0000009c T Chip_Clock_SetupMainPLLMult
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W SDIO_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W ATIMER_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a0 00000002 W PendSV_Handler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000184 00000002 W NMI_Handler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000150 T __data_section_table_end
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W I2C1_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W UART1_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W GPIO5_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W CAN1_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001b44 00000014 T Chip_Clock_EnablePLL
+Protocolos/Ejercicio2/out/Ejercicio2.elf:53ff5ae6 A __valid_user_code_checksum
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W USB1_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W I2S0_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000a68 00000040 T TIMER3_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001998 0000000c T Chip_Clock_GetBaseClocktHz
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000178 0000000a T UART0_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001c8 00000012 T bss_init
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000ed4 0000000e T Chip_UART_ReadRB
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a002370 00000016 T memcpy
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W SGPIO_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001b04 00000040 T Chip_Clock_SetupPLL
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001dd4 T __aeabi_uldivmod
+Protocolos/Ejercicio2/out/Ejercicio2.elf:100000d4 ? _noinit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a00093c 00000018 T uartWriteString
+Protocolos/Ejercicio2/out/Ejercicio2.elf:100000d0 00000004 B SystemCoreClock
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000ce0 00000050 T Chip_UART_Init
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W ADC0_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001088 00000090 T RingBuffer_InsertMult
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000194 00000002 W UsageFault_Handler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001a88 0000004c T Chip_Clock_GetRate
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W GPIO6_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:100000c0 00000008 B tickCounter
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000bec 00000074 T Board_SetupClocking
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001cf0 00000008 T Chip_SystemInit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a002578 00000004 T ExtRateIn
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W IntDefaultHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000300 T __CRP_WORD_END__
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001d54 00000002 T Chip_GPIO_DeInit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a00040c 0000000a T GPIO1_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001234 00000048 T Chip_USB1_Init
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W SSP0_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000830 00000018 T uartRxReady
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0002fc 00000004 T CRP_WORD
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001cdc 00000014 T Chip_SetupIrcClocking
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a002104 0000026a T __udivdi3
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W ADC1_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001058 00000030 T RingBuffer_Insert
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000114 T __data_section_table
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W RTC_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:100000d4 B _ebss
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0009ac 0000003c T TIMER0_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0006d8 0000007c T tickInit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W SPI_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W LCD_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0014a8 0000004c T Chip_Clock_EnableCrystal
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001ac 0000001a T data_init
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0009e8 00000040 T TIMER1_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001504 00000054 T Chip_Clock_SetDivider
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000954 0000000a T UART2_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001820 00000068 T Chip_Clock_GetMainPLLHz
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000d30 0000001c T Chip_UART_DeInit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0023e0 00000136 T gpioPinsInit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000920 0000001a T uartWriteByte
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a00069c 00000016 T gpioToggle
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000418 0000000a T GPIO2_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0014f4 00000010 T Chip_Clock_DisableCrystal
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001a60 00000014 T Chip_Clock_StartPowerDown
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001974 00000024 T Chip_Clock_GetBaseClock
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001b6c 0000000c T Chip_Clock_GetPLLStatus
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000e30 00000024 T Chip_UART_RXIntHandlerRB
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000e90 00000042 T Chip_UART_SendRB
+Protocolos/Ejercicio2/out/Ejercicio2.elf:10000090 B _bss
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W I2S1_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001764 000000bc T Chip_Clock_SetupMainPLLHz
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001d50 00000002 T Chip_GPIO_Init
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a002574 00000004 T OscRateIn
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000888 0000007c T uartInit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:100000d4 ? _end_noinit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:10008000 A _vStackTop
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W SSP1_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001954 00000020 T Chip_Clock_IsBaseClockEnabled
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000178 T __bss_section_table_end
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000450 0000019c T gpioInit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0018f0 00000034 T Chip_Clock_GetBaseClockOpts
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001e64 00000002 W __aeabi_ldiv0
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001148 00000082 T RingBuffer_PopMult
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W USB0_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001a2c 00000034 T Chip_Clock_Disable
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W GPIO3_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000d4c 00000022 T Chip_UART_Send
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W SCT_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001ad4 00000030 T Chip_Clock_GetEMCRate
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000ee4 00000036 T Chip_UART_IRQRBHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001574 0000001c T Chip_Clock_GetDividerDivisor
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0002fc T __CRP_WORD_START__
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a002386 00000010 T memset
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a00018c 00000002 W MemManage_Handler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000300 00000074 T main
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000da4 00000022 T Chip_UART_Read
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W WDT_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000198 00000002 W SVC_Handler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:10000000 00000004 D DWT_CTRL
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001cc8 00000014 T Chip_SetupXtalClocking
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000848 00000018 T uartTxReady
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W GPIO7_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0019a4 0000003c T Chip_Clock_EnableOpts
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001590 000000b8 T Chip_Clock_GetClockInputHz
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001cf8 00000058 T fpuInit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001648 00000080 T Chip_Clock_CalcMainPLLValue
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000b9c 0000001c T SystemInit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W SPIFI_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a00096c 00000038 T delay
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W QEI_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000150 T __bss_section_table
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001a14 00000018 T Chip_Clock_RTCEnable
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0005ec 00000058 T gpioWrite
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000d80 00000024 T Chip_UART_SendBlocking
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000bb8 00000034 T Board_SetupMuxing
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000f1c 000000e8 T Chip_UART_SetBaudFDR
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0006b4 0000000c T tickRead
+Protocolos/Ejercicio2/out/Ejercicio2.elf:100000c8 00000008 B tickRateMS
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W ETH_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:10000090 00000004 B tickHookFunction
+Protocolos/Ejercicio2/out/Ejercicio2.elf:10000000 ? _end_uninit_RESERVED
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000874 00000014 T uartTxWrite
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W CAN0_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:10000000 D _data
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000178 T __section_table_end
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W GINT0_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W DAC_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:10000090 D _edata
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W M0SUB_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001010 00000038 T Chip_UART_ABCmd
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001b78 00000150 T Chip_SetupCoreClock
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000400 0000000a T GPIO0_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000000 00000114 T g_pfnVectors
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001d58 0000007c T ResetISR
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a00127c 00000014 T SystemCoreClockUpdate
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W DMA_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W EVRT_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001048 00000010 T RingBuffer_Init
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001e64 00000002 W __aeabi_idiv0
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001b58 00000014 T Chip_Clock_DisablePLL
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001a74 00000014 T Chip_Clock_ClearPowerDown
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000e54 0000003a T Chip_UART_TXIntHandlerRB
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000190 00000002 W BusFault_Handler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0019e0 00000034 T Chip_Clock_Enable
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000960 0000000a T UART3_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W MCPWM_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001e04 0000002e T __gnu_ldivmod_helper
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W M0APP_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000644 00000058 T gpioRead
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000aa8 000000f4 T boardInit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W GINT1_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0006c0 00000018 T tickPowerSet
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000dc8 00000024 T Chip_UART_ReadBlocking
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a001924 00000018 T Chip_Clock_EnableBaseClock
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0018ac 00000044 T Chip_Clock_SetBaseClock
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000374 0000001c T cyclesCounterInit
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a0001a8 00000002 W GPIO4_IRQHandler
+Protocolos/Ejercicio2/out/Ejercicio2.elf:1a000c60 0000000c T Board_SystemInit
